@@ -1,0 +1,33 @@
+body
+{
+    font-family: system-ui;
+    font-size-adjust: auto;
+    text-align: justify;
+    color: black;
+    background-color: whit;
+    margin: 30px;
+    padding: 10px;
+}
+
+#column1
+{
+    float:left;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+
+}
+
+#column2
+{
+    float:right;
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    
+}
+
+img
+{
+    border-radius: 30%;
+}
